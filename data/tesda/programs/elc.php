@@ -5,12 +5,12 @@
  */
 
 return [
-    [
+    'ELCEPA213' => [
         'sector_code'   => 'ELC',
         'code'          => 'ELCEPA213',
         'title'         => 'Electronics Products Assembly and Servicing NC II',
         'slug'          => 'electronics-products-assembly-and-servicing-nc-2',
-        'nc_level'      => 2,
+        'level'         => 2,
         'competencies'  => [
             'basic'     => [
                 '500311105',
@@ -34,12 +34,12 @@ return [
             ]
         ]
     ],
-    [
+    'ELCCSS213' => [
         'sector_code'   => 'ELC',
         'code'          => 'ELCCSS213',
         'title'         => 'Computer Systems Servicing NC II',
         'slug'          => 'computer-systems-servicing-nc-2',
-        'nc_level'      => 2,
+        'level'         => 2,
         'competencies'  => [
             'basic'     => [
                 '500311105',

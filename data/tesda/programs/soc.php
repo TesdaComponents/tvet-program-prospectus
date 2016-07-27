@@ -5,12 +5,12 @@
  */
 
 return [
-    [
+    'SOCBKP308' => [
         'sector_code'   => 'SOC',
         'code'          => 'SOCBKP308',
         'title'         => 'Bookkeeping NC III',
         'slug'          => 'bookkeeping-nc-3',
-        'nc_level'      => 3,
+        'level'         => 3,
         'competencies'  => [
             'basic'     => [
                 '500311109',
@@ -35,12 +35,12 @@ return [
             ]
         ]
     ],
-    [
+    'SOCSES105' => [
         'sector_code'   => 'SOC',
         'code'          => 'SOCSES105',
         'title'         => 'Security Services NC I',
         'slug'          => 'security-services-nc-1',
-        'nc_level'      => 1,
+        'level'         => 1,
         'competencies'  => [
             'basic'     => [
                 '500311101',
@@ -62,12 +62,12 @@ return [
             ]
         ]
     ],
-    [
+    'SOCSES207' => [
         'sector_code'   => 'SOC',
         'code'          => 'SOCSES207',
         'title'         => 'Security Services NC II',
         'slug'          => 'security-services-nc-2',
-        'nc_level'      => 2,
+        'level'         => 2,
         'competencies'  => [
             'basic'     => [
                 '500311105',

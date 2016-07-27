@@ -5,12 +5,12 @@
  */
 
 return [
-    [
+    'MEEEAW107' => [
         'sector_code'   => 'MEE',
         'code'          => 'MEEEAW107',
         'title'         => 'Shielded Metal Arc Welding (SMAW) NC I',
         'slug'          => 'shielded-metal-arc-welding-nc-1',
-        'nc_level'      => 1,
+        'level'         => 1,
         'competencies'  => [
             'basic'     => [
                 '500311101',
@@ -26,12 +26,12 @@ return [
             ]
         ]
     ],
-    [
+    'MEEEAW207' => [
         'sector_code'   => 'MEE',
         'code'          => 'MEEEAW207',
         'title'         => 'Shielded Metal Arc Welding (SMAW) NC II',
         'slug'          => 'shielded-metal-arc-welding-nc-2',
-        'nc_level'      => 2,
+        'level'         => 2,
         'competencies'  => [
             'basic'     => [
                 '500311105',

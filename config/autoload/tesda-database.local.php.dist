@@ -1,0 +1,22 @@
+<?php
+
+return [
+    'db' => [
+        'adapters' => [
+            'write-only' => [
+                'driver'    => 'Pdo_Pgsql',
+				'database'  => 'database',
+                'username'  => 'username',
+                'password'  => 'password',
+                'hostname'  => '127.0.0.1'
+            ],
+            'read-only'  => [
+                'driver'    => 'Pdo_Pgsql',
+				'database'  => 'database',
+                'username'  => 'username',
+                'password'  => 'password',
+                'hostname'  => '127.0.0.1'
+            ]
+        ]
+    ]
+];

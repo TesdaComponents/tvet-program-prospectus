@@ -1,0 +1,60 @@
+{
+    "name": "tesda/tvet-program-prospectus",
+    "description": "TESDA TVET Program Prospectus",
+    "license": "MIT",
+    "type": "project",
+    "keywords": ["ZF module", "TESDA"],
+    "homepage": "https://github.com/TesdaComponents/tvet-program-prospectus",
+    "authors": [
+        {
+            "name": "Gab Amba",
+            "email": "gamba@gabbydgab.com",
+            "homepage": "http://www.gabbydgab.com/"
+        }
+    ],
+    "require": {
+        "php": "^7.0",
+        "roave/security-advisories": "dev-master",
+        "zendframework/zend-servicemanager": "^3.1.1",
+        "zendframework/zend-hydrator": "^2.2.1"
+    },
+    "require-dev": {
+        "zendframework/zend-test": "^3.0.1",
+        "squizlabs/php_codesniffer": "^2.6.2",
+        "phpbench/phpbench": "^0.11.2",
+        "sebastian/phpcpd": "^2.0.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Tesda\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "TesdaTest\\": "test/"
+        }
+    },
+    "extra": {
+        "zf": {
+            "module": "Tesda",
+            "config-provider": "Tesda\\ConfigProvider"
+        }
+    },
+    "scripts": {
+        "post-install-cmd"  : [
+            "@show-me-the-bugs"
+        ],
+        "post-update-cmd"   : [
+            "@show-me-the-bugs"
+        ],
+        "show-me-the-bugs": [
+            "@cs",
+            "@cpd",
+            "@test"
+        ],
+        "cs": "phpcs --ignore=/vendor,/build ",
+        "cs-fix": "phpcbf --ignore=/vendor,/build ",
+        "cpd": "phpcpd --exclude=vendor --names-exclude=ConfigProvider.php,Module.php --fuzzy src",
+        "test": "phpunit --verbose"
+    }
+}

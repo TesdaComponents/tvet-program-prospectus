@@ -5,12 +5,12 @@
  */
 
 return [
-    [
+    'TRSEMS308' => [
         'sector_code'   => 'TRS',
         'code'          => 'TRSEMS308',
         'title'         => 'Events Management Services NC III',
         'slug'          => 'events-management-services-nc-3',
-        'nc_level'      => 3,
+        'level'         => 3,
         'competencies'  => [
             'basic'     => [
                 '500311109',
@@ -38,12 +38,12 @@ return [
             ]
         ]
     ],
-    [
+    'TRSHSK213' => [
         'sector_code'   => 'TRS',
         'code'          => 'TRSHSK213',
         'title'         => 'Housekeeping NC II',
         'slug'          => 'housekeeping-nc-2',
-        'nc_level'      => 2,
+        'level'         => 2,
         'competencies'  => [
             'basic'     => [
                 '500311105',
@@ -68,7 +68,7 @@ return [
             ]
         ]
     ],
-//    [
+//    'TRSHSK308' => [
 //        'sector_code'   => 'TRS',
 //        'code'          => 'TRSHSK308',
 //        'title'         => 'Housekeeping NC III',
@@ -98,12 +98,12 @@ return [
 //            ]
 //        ]
 //    ],
-    [
+    'TRSBPP209' => [
         'sector_code'   => 'TRS',
         'code'          => 'TRSBPP209',
         'title'         => 'Bread and Pastry Production NC II',
         'slug'          => 'bread-and-pastry-production-nc-2',
-        'nc_level'      => 2,
+        'level'         => 2,
         'competencies'  => [
             'basic'     => [
                 '500311105',
@@ -127,12 +127,12 @@ return [
             ]
         ]
     ],
-    [
+    'TRSFBS213' => [
         'sector_code'   => 'TRS',
         'code'          => 'TRSFBS213',
         'title'         => 'Food and Beverage Services NC II',
         'slug'          => 'food-and-beverage-services-nc-2',
-        'nc_level'      => 2,
+        'level'         => 2,
         'competencies'  => [
             'basic'     => [
                 '500311105',
@@ -157,12 +157,12 @@ return [
             ]
         ]
     ],
-//    [
+//    'TRSFBS313' => [
 //        'sector_code'   => 'TRS',
 //        'code'          => 'TRSFBS313',
 //        'title'         => 'Food and Beverage Services NC III',
 //        'slug'          => 'food-and-beverage-services-nc-3',
-//        'nc_level'      => 3,
+//        'level'         => 3,
 //        'competencies'  => [
 //            'basic'     => [
 //

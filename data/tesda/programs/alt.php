@@ -10,7 +10,7 @@ return [
         'code'          => 'ALTDRV205',
         'title'         => 'Driving NC II',
         'slug'          => 'driving-nc-2',
-        'nc_level'      => 2,
+        'level'         => 2,
         'competencies'  => [
             'basic'     => [
                 '500311105',
@@ -39,7 +39,7 @@ return [
         'code'          => 'ALTMSE205',
         'title'         => 'Motorcycle/Small Engine Servicing NC II',
         'slug'          => 'motorcycle-small-engine-servicing-nc-2',
-        'nc_level'      => 2,
+        'level'         => 2,
         'competencies'  => [
             'basic'     => [
                 
