@@ -9,7 +9,7 @@ What is TVET?
 "TECHNICAL-VOCATIONAL EDUCATION AND TRAINING (TVET) is the education or training process where it involves, in addition to general education, the study of technologies and related sciencs and acquisition of practical skills relating to occupations in various sectors of economic life and social life, comprises formal (organized programs as part of the school system) and non-formal (organized classes outside the school system) approaches." (UNESCO)
 
 ##### Training Regulations Sectors
-- [ ] [[(AFF) Agriculture, Forestry and Fishery | https://github.com/TesdaComponents/tvet-program-prospectus/wiki/Agriculture,-Forestry-and-Fishery-(AFF)]]
+- [ ] [Agriculture, Forestry and Fishery - AFF] (https://github.com/TesdaComponents/tvet-program-prospectus/wiki/Agriculture,-Forestry-and-Fishery-(AFF))
 
 
 Based on current TESDA TVET Programs 
