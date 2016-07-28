@@ -22,7 +22,7 @@ What is TVET?
 - [ ] [Pyrotechnics] (https://github.com/TesdaComponents/pyr-program-prospectus)
 - [ ] [Social, Community Development and other Services] (https://github.com/TesdaComponents/soc-program-prospectus)
 - [ ] [Tourism (Hotel and Restaurant)] (https://github.com/TesdaComponents/trs-program-prospectus)
-- [ ] [TVET] (https://github.com/TesdaComponents/trainors-program-prospectus)
+- [ ] [TVET Training Methodologies] (https://github.com/TesdaComponents/trainors-program-prospectus)
 - [ ] [Utilities ( Water Supply, Sewerage, Waste Management, etc)] (https://github.com/TesdaComponents/utl-program-prospectus)
 - [ ] [Visual Arts] (https://github.com/TesdaComponents/vsa-program-prospectus)
 - [ ] [Wholesale and Retail Trading] (https://github.com/TesdaComponents/wrt-program-prospectus)
