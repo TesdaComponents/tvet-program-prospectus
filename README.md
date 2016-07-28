@@ -1,7 +1,7 @@
 TESDA - TVET PROGRAMS
 ===========
 
-TVET Programs (see http://www.tesda.gov.ph/Download/Training_Regulations)
+[TVET Programs](http://www.tesda.gov.ph/Download/Training_Regulations)
 --------
 
 What is TVET?
