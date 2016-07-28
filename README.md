@@ -7,7 +7,7 @@ What is TVET?
 
 Training Regulations Sectors
 --------
-- [ ] [Agriculture, Forestry and Fishery - AFF] (https://github.com/TesdaComponents/tvet-program-prospectus/wiki/Agriculture,-Forestry-and-Fishery-(AFF))
+- [ ] [Agriculture, Forestry and Fishery - AFF] (https://github.com/TesdaComponents/aff-program-prospectus)
 
 
 Based on current TESDA TVET Programs 
