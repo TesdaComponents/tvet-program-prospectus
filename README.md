@@ -1,29 +1,25 @@
 TESDA - TVET PROGRAMS
 ===========
 
-TVET Programs
+TVET Programs (see http://www.tesda.gov.ph/Download/Training_Regulations)
 --------
 
-Based on current TESDA TVET Programs (see 
+What is TVET?
 
- - [ ] 2D GAME ART DEVELOPMENT NC III	
- - [ ] 3D GAME ART DEVELOPMENT NC III (NEW)	
- - [ ] ABLE SEAFARER DECK NC II (II-5)	
- - [ ] ABLE SEAFARER ENGINE NC II (III-5)	
- - [ ] AGRICULTURAL CROPS NC I	
- - [ ] AGRICULTURAL CROPS PRODUCTION NC II	
- - [ ] AGRICULTURAL CROPS PRODUCTION NC III	
- - [ ] AIR DUCT SERVICING NCII	
- - [ ] ANIMAL HEALTH CARE AND MANAGEMENT NC III	
- - [ ] ANIMAL PRODUCTION (POULTRY-CHICKEN) NC II	
- - [ ] ANIMAL PRODUCTION (RUMINANTS) NC II	
- - [ ] ANIMAL PRODUCTION (SWINE) NCII	
- - [ ] ANIMATION (2D DIGITAL) NC III	
- - [ ] ANIMATION (3D DIGITAL) NC III	
- - [ ] ANIMATION NC II	
- - [ ] AQUACULTURE NC II	
- - [ ] ARTIFICIAL INSEMINATION (LARGE RUMINANTS) NC II	
- - [ ] ARTIFICIAL INSEMINATION (SWINE) NC II	
+"TECHNICAL-VOCATIONAL EDUCATION AND TRAINING (TVET) is the education or training process where it involves, in addition to general education, the study of technologies and related sciencs and acquisition of practical skills relating to occupations in various sectors of economic life and social life, comprises formal (organized programs as part of the school system) and non-formal (organized classes outside the school system) approaches." (UNESCO)
+
+##### Training Regulations Sectors
+- [ ] [[(AFF) Agriculture, Forestry and Fishery | https://github.com/TesdaComponents/tvet-program-prospectus/wiki/Agriculture,-Forestry-and-Fishery-(AFF)]]
+
+
+Based on current TESDA TVET Programs 
+
+ - [ ] 2D GAME ART DEVELOPMENT NC III
+ - [ ] 3D GAME ART DEVELOPMENT NC III (NEW)
+ - [ ] ABLE SEAFARER DECK NC II (II-5)
+ - [ ] ABLE SEAFARER ENGINE NC II (III-5)
+ - [ ] AIR DUCT SERVICING NCII
+
  - [ ] ATTRACTIONS AND THEME PARKS NCII	
  - [ ] AUTO BODY PAINTING FINISHING NC I	
  - [ ] AUTO BODY PAINTING FINISHING NC II	
@@ -48,7 +44,7 @@ Based on current TESDA TVET Programs (see
  - [ ] BEAUTY CARE SERVICES (NAIL CARE) NC II - NEW	
  - [ ] BEAUTY CARE SERVICES (NAIL CARE) NC III - NEW	
  - [ ] BIOMEDICAL EQUIPMENT SERVICES NCII	
- - [ ] BOOKKEEPING NC III	
+ - [X] BOOKKEEPING NC III	
  - [ ] BREAD AND PASTRY PRODUCTION NC II - AMENDED	
  - [ ] BROADBAND INSTALLATION (FIXED WIRELESS SYSTEMS) NC II	
  - [ ] CABLE TV INSTALLATION NC II	
@@ -92,7 +88,7 @@ Based on current TESDA TVET Programs (see
  - [ ] ELECTRONICS BACK-END OPERATION NC II	
  - [ ] ELECTRONICS FRONT-OF-LINE OPERATION NC II	
  - [ ] EMERGENCY MEDICAL SERVICES NC II (AMENDED 2013)	
- - [ ] EVENTS MGT SERVICES NC III	
+ - [X] EVENTS MGT SERVICES NC III	
  - [ ] FASHION DESIGN (APPAREL) NC III - NEW	
  - [ ] FISH CAPTURE NC I	
  - [ ] FISH CAPTURE NC II	
@@ -155,7 +151,7 @@ Based on current TESDA TVET Programs (see
  - [ ] HEO (WHEEL LOADER) NC II	
  - [ ] HILOT (WELLNESS) NC II	
  - [ ] HORTICULTURE NC III	
- - [ ] HOUSEKEEPING NC II	
+ - [X] HOUSEKEEPING NC II	
  - [ ] HOUSEKEEPING NCIII	
  - [ ] HOUSEKEEPING NCIV	
  - [ ] ICE PLANT REFRIGERATION SERVICING NC III	
@@ -286,9 +282,6 @@ Competencies
  - [ ] Laundry Linen and Guest Clothes
  - [ ] Clean Public Areas, Facilities & Equipment
  - [ ] Deal with/Handle intoxicated guests
-
-
-
 
 
 Installation and Usage
